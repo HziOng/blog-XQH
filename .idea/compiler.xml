@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="vueblog-QH.blog-common.main" target="1.8" />
+      <module name="vueblog-QH.blog-common.test" target="1.8" />
+      <module name="vueblog-QH.blog-user.main" target="1.8" />
+      <module name="vueblog-QH.blog-user.test" target="1.8" />
+      <module name="vueblog-QH.cloud-common.main" target="1.8" />
+      <module name="vueblog-QH.cloud-common.test" target="1.8" />
+      <module name="vueblog-QH.cloud-elasticsearch.main" target="1.8" />
+      <module name="vueblog-QH.cloud-elasticsearch.test" target="1.8" />
+      <module name="vueblog-QH.cloud-privider-api.cloud-privider-blog-api.main" target="1.8" />
+      <module name="vueblog-QH.cloud-privider-api.cloud-privider-blog-api.test" target="1.8" />
+      <module name="vueblog-QH.cloud-privider-api.cloud-privider-user-api.main" target="1.8" />
+      <module name="vueblog-QH.cloud-privider-api.cloud-privider-user-api.test" target="1.8" />
+      <module name="vueblog-QH.cloud-privider-api.main" target="1.8" />
+      <module name="vueblog-QH.cloud-privider-api.test" target="1.8" />
+      <module name="vueblog-QH.cloud-privider-user.main" target="1.8" />
+      <module name="vueblog-QH.cloud-privider-user.test" target="1.8" />
+      <module name="vueblog-QH.cloud-privider.cloud-privider-blog.main" target="1.8" />
+      <module name="vueblog-QH.cloud-privider.cloud-privider-blog.test" target="1.8" />
+      <module name="vueblog-QH.cloud-privider.cloud-privider-user.main" target="1.8" />
+      <module name="vueblog-QH.cloud-privider.cloud-privider-user.test" target="1.8" />
+      <module name="vueblog-QH.cloud-provider.main" target="1.8" />
+      <module name="vueblog-QH.cloud-provider.test" target="1.8" />
+      <module name="vueblog-QH.main" target="1.8" />
+      <module name="vueblog-QH.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

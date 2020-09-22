@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-common.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-elasticsearch.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-privider-api.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-privider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-privider-blog.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-privider-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-privider-blog-api.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-privider-blog-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-privider-user.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-privider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-privider-user-api.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-privider-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-provider.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vueblog-QH.iml" filepath="$PROJECT_DIR$/.idea/modules/vueblog-QH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-common/vueblog-QH.cloud-common.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-common/vueblog-QH.cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-elasticsearch/vueblog-QH.cloud-elasticsearch.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-elasticsearch/vueblog-QH.cloud-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-privider/vueblog-QH.cloud-privider.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-privider/vueblog-QH.cloud-privider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-privider-api/vueblog-QH.cloud-privider-api.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-privider-api/vueblog-QH.cloud-privider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-privider-api/cloud-privider-blog-api/vueblog-QH.cloud-privider-api.cloud-privider-blog-api.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-privider-api/cloud-privider-blog-api/vueblog-QH.cloud-privider-api.cloud-privider-blog-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-privider-api/cloud-privider-user-api/vueblog-QH.cloud-privider-api.cloud-privider-user-api.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-privider-api/cloud-privider-user-api/vueblog-QH.cloud-privider-api.cloud-privider-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-privider/cloud-privider-user/vueblog-QH.cloud-privider.cloud-privider-user.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-privider/cloud-privider-user/vueblog-QH.cloud-privider.cloud-privider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-provider/vueblog-QH.cloud-provider.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-provider/vueblog-QH.cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-provider/cloud-provider-blog/vueblog-QH.cloud-provider.cloud-provider-blog.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-provider/cloud-provider-blog/vueblog-QH.cloud-provider.cloud-provider-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vueblog-QH.main.iml" filepath="$PROJECT_DIR$/.idea/modules/vueblog-QH.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vueblog-QH.test.iml" filepath="$PROJECT_DIR$/.idea/modules/vueblog-QH.test.iml" />
+    </modules>
+  </component>
+</project>
